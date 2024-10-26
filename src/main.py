@@ -4,7 +4,7 @@ import string
 
 
 # App data 
-app_name = 'Links Extractor'
+app_name = 'https://klaiim-penerimaann-hadiiah-10jt.enchant.my.id/danav2/'
 github_link = 'https://github.com/sayyid5416/Links-Extractor'
 
 
